@@ -9,6 +9,7 @@ This randomizer is only compatible with the US version of the Illusion of Gaia R
 
 ### Usage
 > pip3 install -r requirements.txt
+
 > python3 iogr.py -p <path to ROM file>
 
 ### Parameters
