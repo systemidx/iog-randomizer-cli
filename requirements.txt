@@ -1,1 +1,1 @@
-iog-randomizer==3.4.6
+iog-randomizer==3.6.0
